@@ -1,4 +1,4 @@
-agilekoken
-==========
+appengine-skeleton
+=============================
 
-Agile Koken Landing Page
+This is a generated application from the appengine-skeleton archetype.
